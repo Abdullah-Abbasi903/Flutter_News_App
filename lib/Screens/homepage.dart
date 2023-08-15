@@ -80,7 +80,7 @@ class _HomepageState extends State<HomePage> {
                       padding: const EdgeInsets.all(8.0),
                       
                       child: 
-                      const Text("Break",style: TextStyle(fontSize: 30,fontStyle: FontStyle.italic),),
+                      Text("Breaking News",style: TextStyle(fontSize: 30,fontStyle: FontStyle.italic),),
                     ),
                     ),
                     AnimatedContainer(duration: const Duration(seconds: 1),
