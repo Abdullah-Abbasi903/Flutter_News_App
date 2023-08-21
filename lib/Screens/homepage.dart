@@ -26,7 +26,7 @@ class HomePage extends StatelessWidget {
       "Jokes",
     ];
 
-    List<Map<String, dynamic>> listResponse = []; // Initialize with actual data
+    List<Map<String, dynamic>> listResponse = []; 
 
     return Scaffold(
       appBar: AppBar(
